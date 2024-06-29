@@ -45,3 +45,9 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikiransavai&theme=tokyonight" alt="ravikiransavai" /></td>
   </tr>
 </table>
+
+<div style="display: flex; justify-content: space-around;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikiransavai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravikiransavai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikiransavai&show_icons=true&locale=en&theme=tokyonight" alt="ravikiransavai" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikiransavai&theme=tokyonight" alt="ravikiransavai" />
+</div>
