@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravikiran Savai</h1>
 <h3 align="center">A passionate DevOps Engineer from India with 5+ years of experience at Annalect, talking about AWS, Kubernetes, Cloud Computing, DevOps Engineers and Software Engineers.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiransavai&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiransavai" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMycmE2cmFkZ2FweG9vcDU2aGRuZnJnbmRkY2ExbGx0ZmQ4YzdyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cx4A3Kv225gpLYKSsk/giphy.gif">
+
 <p align="left"> <a href="https://twitter.com/eravikiranpatil" target="blank"><img src="https://img.shields.io/twitter/follow/eravikiranpatil?logo=twitter&style=for-the-badge" alt="eravikiranpatil" /></a> </p>
 
 - 🔭 I’m currently working on [GEN-AI01](www.project01.com)
